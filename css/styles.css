@@ -1,0 +1,37 @@
+.feature{
+	background-color: #3c3c3c;
+}
+
+.logo{
+	margin-top: 10px;
+}
+ #contact{
+	background-color: #3c3c3c;
+	padding: 80px 0 80px 0;
+}
+
+.container{
+	background-color: #dfe3ee;
+}
+
+body{
+font-family: "Lato", sans-serif;
+}
+
+.main-heading{
+	font-weight: 100;
+}
+.white-space{
+	margin: 10px 0 10px 0;
+}
+
+.horizontal{
+	border: none;
+    height: 3px;
+    background-color: #333;
+
+}
+
+.big-container{
+background-color: #007777;
+}
